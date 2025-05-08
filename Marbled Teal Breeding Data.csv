@@ -1,0 +1,188 @@
+﻿unite primaire,unite secondaire,firstpassage,secondpassage,thirdpassage,Area (meters square),y,x,Year,SDS,P1,P2,P3,emveg,Wt,W1,W2,W3,D1,D2,D3,,,,,st1,st2,st3,Sampling effort 1,Sampling effort 2,Sampling effort 3,julian1,julian2,julian3
+Al Kansra,AL kansra 1,13/06/2023,NA,NA,7469203,34.01052,-5.9089,2023,1,0,NA,NA,0,Dam,Cloudy,NA,NA,fishing activities,NA,NA,,,,,9,NA,NA,17,NA,NA,164,NA,NA
+Al Kansra,AL kansra 2,13/06/2023,NA,NA,7469203,34.04402,-5.90441,2023,2,0,NA,NA,0,Dam,Cloudy,NA,NA,fishing activities,NA,NA,,,,,9,NA,NA,17,NA,NA,164,NA,NA
+Al Kansra,AL kansra 3,13/06/2023,NA,NA,7469203,34.0068,-5.90441,2023,3,0,NA,NA,0,Dam,Cloudy,NA,NA,fishing activities,NA,NA,,,,,9,NA,NA,17,NA,NA,164,NA,NA
+Al Kansra,AL kansra 4,13/06/2023,NA,NA,7469203,34.03658,-5.89992,2023,4,0,NA,NA,0,Dam,Cloudy,NA,NA,fishing activities,NA,NA,,,,,9,NA,NA,17,NA,NA,164,NA,NA
+Al Kansra,AL kansra 5,13/06/2023,NA,NA,7469203,34.0403,-5.89543,2023,5,0,NA,NA,0,Dam,Cloudy,NA,NA,fishing activities,NA,NA,,,,,9,NA,NA,17,NA,NA,164,NA,NA
+Al Kansra,AL kansra 6,13/06/2023,NA,NA,7469203,34.01797,-5.89543,2023,6,0,NA,NA,0,Dam,Cloudy,NA,NA,fishing activities,NA,NA,,,,,9,NA,NA,17,NA,NA,164,NA,NA
+Al Kansra,AL kansra 7,13/06/2023,NA,NA,7469203,34.02541,-5.88644,2023,7,0,NA,NA,0,Dam,Cloudy,NA,NA,fishing activities,NA,NA,,,,,9,NA,NA,17,NA,NA,164,NA,NA
+Al Massira  ,Al Massira dam 1,08/06/2023,09/07/2023,06/08/2023,10163311,32.45522,-7.54383,2023,8,0,0,0,65,Dam,Cloudy,Cloudy,Sunny,feral dogs,feral dogs,feral dogs,,,,,9,9,9,35,50,50,159,190,218
+Al Massira  ,Al Massira dam 1,13/06/2024,NA,NA,10163311,32.45522,-7.54383,2023,8,0,NA,NA,65,Dam,Cloudy,NA,NA,feral dogs,NA,NA,,,,,9,NA,NA,30,NA,NA,165,NA,NA
+Al Massira  ,Al Massira dam 2,08/06/2023,09/07/2023,06/08/2023,10163311,32.44385,-7.53934,2023,9,0,0,0,65,Dam,Cloudy,Cloudy,Sunny,feral dogs,feral dogs,feral dogs,,,,,9,9,9,35,50,50,159,190,218
+Al Massira  ,Al Massira dam 2,13/06/2024,NA,NA,10163311,32.44385,-7.53934,2023,9,0,NA,NA,65,Dam,Cloudy,NA,NA,feral dogs,NA,NA,,,,,14,NA,NA,27,NA,NA,165,NA,NA
+Al Massira  ,Al Massira dam 4,08/06/2023,09/07/2023,06/08/2023,10163311,32.44764,-7.52587,2023,11,0,0,0,65,Dam,Cloudy,Cloudy,Sunny,feral dogs,feral dogs,feral dogs,,,,,9,9,9,35,50,50,159,190,218
+Al Massira  ,Al Massira dam 4,13/06/2024,NA,NA,10163311,32.44764,-7.52587,2023,11,0,NA,NA,65,Dam,Cloudy,NA,NA,feral dogs,NA,NA,,,,,9,NA,NA,60,NA,NA,165,NA,NA
+Al Massira  ,Al Massira dam 6,13/06/2024,NA,NA,10163311,32.44764,-7.52587,2023,11,0,NA,NA,65,Dam,Cloudy,NA,NA,feral dogs,NA,NA,,,,,9,NA,NA,120,NA,NA,165,NA,NA
+Aoulouz,Aoulouz dam 1,06/06/2023,18/07/2023,29/07/2023,4316604,30.6951,-8.13672,2023,17,0,0,0,0,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,10,10,9,50,26,12,157,199,210
+Aoulouz,Aoulouz dam 2,06/06/2023,18/07/2023,29/07/2023,4316604,30.69124,-8.12774,2023,18,0,0,0,0,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,10,10,9,50,26,12,157,199,210
+Aoulouz,Aoulouz dam 3,06/06/2023,18/07/2023,29/07/2023,4316604,30.69896,-8.12325,2023,19,0,0,0,0,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,10,10,9,50,26,12,157,199,210
+Aoulouz,Aoulouz dam 4,06/06/2023,18/07/2023,29/07/2023,4316604,30.70669,-8.11876,2023,20,0,0,0,0,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,10,10,9,50,26,12,157,199,210
+Aoulouz,Aoulouz dam 5,06/06/2023,18/07/2023,29/07/2023,4316604,30.71441,-8.10977,2023,21,0,0,0,0,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,10,10,9,50,26,12,157,199,210
+bab louta,bab louta 1,20/06/2024,18/07/2024,05/08/2024,567200,34.01424496,-4.32786483,2024,,0,0,0,10,Dam,Sunny,Sunny,Sunny,Anthropic activities,Anthropic activities,Anthropic activities,,,,,17,20,18,35,25,35,172,200,218
+bab louta,bab louta 2,20/06/2024,18/07/2024,05/08/2024,567200,34.00679851,-4.32337326,2024,,0,0,0,0,Dam,Sunny,Sunny,Sunny,Anthropic activities,Anthropic activities,Anthropic activities,,,,,17,19,18,20,30,40,172,200,218
+El Hansali ,Barrage el Hansali 1,07/06/2023,07/07/2023,NA,6555448,32.69746,-5.88644,2023,22,0,0,NA,0,Dam,Cloudy,Sunny,NA,Nothing,Nothing,NA,,,,,9,12,NA,6,12,NA,158,188,NA
+El Hansali ,Barrage el Hansali 2,07/06/2023,07/07/2023,NA,6555448,32.72013,-5.88195,2023,23,0,0,NA,10,Dam,Cloudy,Sunny,NA,Nothing,Nothing,NA,,,,,9,12,NA,6,12,NA,158,188,NA
+El Hansali ,Barrage el Hansali 3,07/06/2023,07/07/2023,NA,6555448,32.69368,-5.88195,2023,24,0,0,NA,0,Dam,Cloudy,Sunny,NA,Nothing,Nothing,NA,,,,,9,12,NA,6,12,NA,158,188,NA
+El Hansali ,Barrage el Hansali 4,07/06/2023,07/07/2023,NA,6555448,32.71635,-5.87746,2023,25,0,0,NA,0,Dam,Cloudy,Sunny,NA,Nothing,Nothing,NA,,,,,9,12,NA,6,12,NA,158,188,NA
+El Hansali ,Barrage el Hansali 5,07/06/2023,07/07/2023,NA,6555448,32.69368,-5.87746,2023,26,0,0,NA,0,Dam,Cloudy,Sunny,NA,Nothing,Nothing,NA,,,,,9,12,NA,6,12,NA,158,188,NA
+El Hansali ,Barrage el Hansali 6,07/06/2023,07/07/2023,NA,6555448,32.70502,-5.87297,2023,27,0,0,NA,0,Dam,Cloudy,Sunny,NA,Nothing,Nothing,NA,,,,,9,12,NA,6,12,NA,158,188,NA
+El Hansali ,Barrage el Hansali 7,07/06/2023,07/07/2023,NA,6555448,32.69746,-5.87297,2023,28,0,0,NA,0,Dam,Cloudy,Sunny,NA,Nothing,Nothing,NA,,,,,9,12,NA,6,12,NA,158,188,NA
+El Hansali ,Barrage el Hansali 8,07/06/2023,07/07/2023,NA,6555448,32.71635,-5.86398,2023,29,0,0,NA,0,Dam,Cloudy,Sunny,NA,Nothing,Nothing,NA,,,,,9,12,NA,6,12,NA,158,188,NA
+El Hansali ,Barrage el Hansali 9,07/06/2023,07/07/2023,NA,6555448,32.7088,-5.85949,2023,30,0,0,NA,0,Dam,Cloudy,Sunny,NA,Nothing,Nothing,NA,,,,,9,12,NA,6,12,NA,158,188,NA
+El Hansali ,Barrage el Hansali10,07/06/2023,07/07/2023,NA,6555448,32.71635,-5.84602,2023,31,0,0,NA,10,Dam,Cloudy,Sunny,NA,Nothing,Nothing,NA,,,,,9,12,NA,6,12,NA,158,188,NA
+Barrage hassan 2,Barrage hassan 2 1,11/06/2024,NA,NA,1359600,32.82587812,-4.80846351,2024,,0,NA,NA,0,Dam,Cloudy,NA,NA,fishing activities,NA,NA,,,,,10,NA,NA,25,NA,NA,163,NA,NA
+Barrage hassan 2,Barrage hassan 2 2,11/06/2024,NA,NA,1359600,32.7994536,-4.79948036,2024,,0,NA,NA,0,Dam,Cloudy,NA,NA,fishing activities,NA,NA,,,,,10,NA,NA,35,NA,NA,163,NA,NA
+Barrage hassan 2,Barrage hassan 2 3,11/06/2024,NA,NA,1359600,32.80700426,-4.78600563,2024,,0,NA,NA,0,Dam,Cloudy,NA,NA,fishing activities,NA,NA,,,,,11,NA,NA,45,NA,NA,163,NA,NA
+Barrage hassan 2,Barrage hassan 2 4,11/06/2024,NA,NA,1359600,32.80322901,-4.78151405,2024,,0,NA,NA,0,Dam,Cloudy,NA,NA,fishing activities,NA,NA,,,,,12,NA,NA,40,NA,NA,163,NA,NA
+Barrage hassan 2,Barrage hassan 2 5,11/06/2024,NA,NA,1359600,32.7994536,-4.78151405,2024,,0,NA,NA,0,Dam,Cloudy,NA,NA,fishing activities,NA,NA,,,,,12,NA,NA,35,NA,NA,163,NA,NA
+Chaouen,Chaouen 1,11/06/2023,07/07/2023,05/08/2023,999657,35.27059,-5.35194,2023,44,0,0,0,10,Dam,Sunny,Sunny,Sunny,feral dogs,feral dogs,feral dogs,,,,,17,9,17,90,60,21,162,188,217
+Chaouen,Chaouen 2,11/06/2023,07/07/2023,05/08/2023,999657,35.26326,-5.34745,2023,45,0,0,0,0,Dam,Sunny,Sunny,Sunny,feral dogs,feral dogs,feral dogs,,,,,17,9,17,90,60,21,162,188,217
+Diasra,Diasra,07/06/2024,11/07/2024,09/08/2024,456095,34.96197528,-6.24576796,2024,,1,1,0,10,Pond,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,9,10,11,60,60,60,159,193,222
+El Wahda,El Wahda dam 1,07/06/2023,09/07/2023,30/07/2023,39480386,34.55977,-5.11838,2023,48,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 10,07/06/2023,09/07/2023,30/07/2023,39480386,34.53017,-5.10042,2023,49,0,0,0,30,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 11,07/06/2023,09/07/2023,30/07/2023,39480386,34.55607,-5.09592,2023,50,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 12,07/06/2023,09/07/2023,30/07/2023,39480386,34.57456,-5.09143,2023,51,0,0,0,10,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 13,07/06/2023,09/07/2023,30/07/2023,39480386,34.54127,-5.09143,2023,52,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 14,07/06/2023,09/07/2023,30/07/2023,39480386,34.52647,-5.09143,2023,53,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 15,07/06/2023,09/07/2023,30/07/2023,39480386,34.52277,-5.08694,2023,54,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 16,07/06/2023,09/07/2023,30/07/2023,39480386,34.53387,-5.08245,2023,55,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 17,07/06/2023,09/07/2023,30/07/2023,39480386,34.56716,-5.07796,2023,56,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 18,07/06/2023,09/07/2023,30/07/2023,39480386,34.55607,-5.06897,2023,57,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 19,07/06/2023,09/07/2023,30/07/2023,39480386,34.55237,-5.06897,2023,58,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 2,07/06/2023,09/07/2023,30/07/2023,39480386,34.54867,-5.11389,2023,59,0,0,0,10,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 20,07/06/2023,09/07/2023,30/07/2023,39480386,34.55237,-5.06448,2023,60,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 21,07/06/2023,09/07/2023,30/07/2023,39480386,34.54497,-5.06448,2023,61,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 22,07/06/2023,09/07/2023,30/07/2023,39480386,34.54867,-5.0555,2023,62,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 23,07/06/2023,09/07/2023,30/07/2023,39480386,34.54127,-5.0555,2023,63,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 24,07/06/2023,09/07/2023,30/07/2023,39480386,34.52647,-5.0555,2023,64,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 25,07/06/2023,09/07/2023,30/07/2023,39480386,34.53387,-5.04652,2023,65,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 26,07/06/2023,09/07/2023,30/07/2023,39480386,34.54867,-5.03753,2023,66,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 27,07/06/2023,09/07/2023,30/07/2023,39480386,34.53757,-5.03753,2023,67,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 3,07/06/2023,09/07/2023,30/07/2023,39480386,34.54497,-5.11389,2023,68,0,0,0,10,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 4,07/06/2023,09/07/2023,30/07/2023,39480386,34.54127,-5.11389,2023,69,0,0,0,15,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 5,07/06/2023,09/07/2023,30/07/2023,39480386,34.57826,-5.1094,2023,70,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 6,07/06/2023,09/07/2023,30/07/2023,39480386,34.56716,-5.1094,2023,71,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 7,07/06/2023,09/07/2023,30/07/2023,39480386,34.54867,-5.10491,2023,72,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 8,07/06/2023,09/07/2023,30/07/2023,39480386,34.53757,-5.10491,2023,73,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+El Wahda,El Wahda dam 9,07/06/2023,09/07/2023,30/07/2023,39480386,34.58196,-5.10042,2023,74,0,0,0,0,Dam,Sunny,Cloudy,Sunny,hunting,hunting,hunting,,,,,9,9,16,10,6,8,158,190,211
+Fouarate,Fouarate 1,21/06/2023,09/07/2023,NA,1703116,34.27075,-6.5512,2023,75,3,3,NA,35,marsh,Sunny,Sunny,NA,anthropic activities,anthropic activities,NA,,,,,8,8,NA,90,90,NA,172,190,NA
+Fouarate,Fouarate 2,21/06/2023,09/07/2023,NA,1703116,34.26332,-6.5467,2023,76,3,3,NA,60,marsh,Sunny,Sunny,NA,anthropic activities,anthropic activities,NA,,,,,8,8,NA,90,90,NA,172,190,NA
+Fouarate,Fouarate 3,21/06/2023,09/07/2023,NA,1703116,34.2559,-6.53772,2023,77,1,1,NA,40,marsh,Sunny,Sunny,NA,anthropic activities,anthropic activities,NA,,,,,8,8,NA,90,90,NA,172,190,NA
+Hassan Dakhil,Hassan dakhil dam 1,11/06/2023,07/07/2023,NA,8990677,32.00308,-4.4716,2023,78,0,0,NA,10,Dam,Sunny,Sunny,NA,Nothing,Nothing,NA,,,,,10,10,NA,15,15,NA,162,188,NA
+Hassan Dakhil,Hassan dakhil dam 2,11/06/2023,07/07/2023,NA,8990677,31.99165,-4.4671,2023,79,0,0,NA,0,Dam,Sunny,Sunny,NA,Nothing,Nothing,NA,,,,,10,10,NA,15,15,NA,162,188,NA
+Hassan Dakhil,Hassan dakhil dam 3,11/06/2023,07/07/2023,NA,8990677,31.99927,-4.45812,2023,80,0,0,NA,10,Dam,Sunny,Sunny,NA,Nothing,Nothing,NA,,,,,10,10,NA,15,15,NA,162,188,NA
+Hassan Dakhil,Hassan dakhil dam 4,11/06/2023,07/07/2023,NA,8990677,32.01451,-4.45363,2023,81,0,0,NA,0,Dam,Sunny,Sunny,NA,Nothing,Nothing,NA,,,,,10,10,NA,15,15,NA,162,188,NA
+Hassan Dakhil,Hassan dakhil dam 5,11/06/2023,07/07/2023,NA,8990677,32.02212,-4.44914,2023,82,0,0,NA,0,Dam,Sunny,Sunny,NA,Nothing,Nothing,NA,,,,,10,10,NA,15,15,NA,162,188,NA
+Hassan Dakhil,Hassan dakhil dam 6,11/06/2023,07/07/2023,NA,8990677,32.01451,-4.44015,2023,83,0,0,NA,0,Dam,Sunny,Sunny,NA,Nothing,Nothing,NA,,,,,10,10,NA,15,15,NA,162,188,NA
+Hassan Dakhil,Hassan dakhil dam 7,11/06/2023,07/07/2023,NA,8990677,32.00689,-4.44015,2023,84,0,0,NA,0,Dam,Sunny,Sunny,NA,Nothing,Nothing,NA,,,,,10,10,NA,15,15,NA,162,188,NA
+Hassan Dakhil,Hassan dakhil dam 8,11/06/2023,07/07/2023,NA,8990677,32.01831,-4.43117,2023,85,0,0,NA,0,Dam,Sunny,Sunny,NA,Nothing,Nothing,NA,,,,,10,10,NA,15,15,NA,162,188,NA
+Imi lkheng,Imi lkheng 1,13/06/2024,21/07/2024,NA,252128,30.67192254,-8.53647194,2024,,0,0,NA,0,Dam,Sunny,Sunny,NA,pastoral activities,pastoral activities,NA,,,,,9,9,NA,42,42,NA,165,203,NA
+Imi lkheng,Imi lkheng 2,13/06/2024,21/07/2024,NA,252128,30.67192254,-8.52748879,2024,,0,0,NA,0,Dam,Sunny,Sunny,NA,pastoral activities,pastoral activities,NA,,,,,8,8,NA,18,18,NA,165,203,NA
+Khnifiss NP,KHnifiss NP1,21/06/2023,18/06/2023,NA,7682671,27.97812,-12.3004,2023,86,0,0,NA,55,Lagoon,Sunny,Sunny,NA,feral dogs,feral dogs,NA,,,,,9,9,NA,48,48,NA,172,169,NA
+Khnifiss NP,KHnifiss NP2,21/06/2023,18/06/2023,NA,7682671,27.99398,-12.2959,2023,87,0,0,NA,90,Lagoon,Sunny,Sunny,NA,feral dogs,feral dogs,NA,,,,,9,9,NA,48,48,NA,172,169,NA
+Khnifiss NP,KHnifiss NP3,21/06/2023,18/06/2023,NA,7682671,27.98605,-12.2959,2023,88,0,0,NA,95,Lagoon,Sunny,Sunny,NA,feral dogs,feral dogs,NA,,,,,9,9,NA,48,48,NA,172,169,NA
+Khnifiss NP,KHnifiss NP4,21/06/2023,18/06/2023,NA,7682671,27.99398,-12.278,2023,89,0,0,NA,95,Lagoon,Sunny,Sunny,NA,feral dogs,feral dogs,NA,,,,,9,9,NA,48,48,NA,172,169,NA
+Khnifiss NP,KHnifiss NP5,21/06/2023,18/06/2023,NA,7682671,27.99795,-12.269,2023,90,0,0,NA,90,Lagoon,Sunny,Sunny,NA,feral dogs,feral dogs,NA,,,,,9,9,NA,48,48,NA,172,169,NA
+lac aguelmam azegza,lac aguelmam azegza,13/06/2024,09/07/2024,NA,217600,32.97295646,-5.44177578,2024,,0,0,NA,0,lake,Sunny,Sunny,NA,fishing activities,fishing activities,NA,,,,,8,11,NA,45,15,NA,165,191,NA
+lac azzerar,lac azzerar 4,14/06/2024,27/07/2024,04/08/2024,2787731,31.34944552,-9.55156821,2024,,0,0,0,0,Dam,Sunny,Sunny,Sunny,Anthropic activities,Anthropic activities,Anthropic activities,,,,,15,18,16,15,75,25,166,209,217
+lac azzerar,lac azzerar 5,14/06/2024,27/07/2024,04/08/2024,2787731,31.35328129,-9.55156821,2024,,0,0,0,0,Dam,Sunny,Sunny,Sunny,Anthropic activities,Anthropic activities,Anthropic activities,,,,,15,17,15,15,60,45,166,209,217
+Sidi Ali,Lac sidi ali 1,18/06/2023,25/07/2023,NA,2732381,33.07087,-5.0016,2023,91,0,0,NA,5,lake,Sunny,Sunny,NA,fishing activities,fishing activities,NA,,,,,10,10,NA,60,60,NA,169,206,NA
+Sidi Ali,Lac sidi ali 1,11/06/2024,NA,NA,2732381,33.07087,-5.0016,2024,91,0,NA,NA,5,lake,Cloudy,NA,NA,fishing activities,NA,NA,,,,,11,NA,NA,60,NA,NA,163,NA,NA
+Sidi Ali,Lac sidi ali 2,18/06/2023,25/07/2023,NA,2732381,33.0784,-4.98813,2023,92,0,0,NA,0,lake,Sunny,Sunny,NA,fishing activities,fishing activities,NA,,,,,10,10,NA,60,60,NA,169,206,NA
+Sidi Ali,Lac sidi ali 2,11/06/2024,NA,NA,2732381,33.0784,-4.98813,2024,92,0,NA,NA,0,lake,Cloudy,NA,NA,fishing activities,NA,NA,,,,,12,NA,NA,60,NA,NA,163,NA,NA
+lala takerkoust,lala takerkoust 1,12/06/2024,22/07/2024,NA,2507897,31.32642759,-8.14121321,2024,,0,0,NA,80,Dam,Cloudy,Sunny,NA,pastoral activities,pastoral activities,NA,,,,,11,11,NA,32,32,NA,164,204,NA
+lala takerkoust,lala takerkoust 2,12/06/2024,22/07/2024,NA,2507897,31.33793726,-8.13672164,2024,,0,0,NA,20,Dam,Cloudy,Sunny,NA,pastoral activities,pastoral activities,NA,,,,,13,13,NA,30,20,NA,164,204,NA
+lala takerkoust,lala takerkoust 3,12/06/2024,22/07/2024,NA,2507897,31.3417735,-8.14121321,2024,,0,0,NA,10,Dam,Cloudy,Sunny,NA,pastoral activities,pastoral activities,NA,,,,,9,9,NA,75,75,NA,164,204,NA
+lala takerkoust,lala takerkoust 4,12/06/2024,22/07/2024,NA,2507897,31.34944552,-8.13672164,2024,,0,0,NA,10,Dam,Cloudy,Sunny,NA,pastoral activities,pastoral activities,NA,,,,,12,12,NA,30,30,NA,164,204,NA
+Mechra hamadi,Mechra hamadi 1,14/06/2024,15/07/2024,NA,2082642,34.73712736,-2.83216988,2024,,0,0,NA,40,Dam,Sunny,Sunny,NA,anthropic activities,anthropic activities,NA,,,,,11,11,NA,90,90,NA,166,197,NA
+Mechra hamadi,Mechra hamadi 2,14/06/2024,15/07/2024,NA,2082642,34.73343621,-2.81420358,2024,,0,0,NA,40,Dam,Sunny,Sunny,NA,anthropic activities,anthropic activities,NA,,,,,9,9,NA,240,240,NA,166,197,NA
+Mohammed V,Mohamed 5 dam 1,11/06/2023,06/07/2023,04/08/2023,24300134,34.6448,-2.96692,2023,105,0,0,0,0,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,17,8,17,30,23,162,187,216
+Mohammed V,Mohamed 5 dam 10,11/06/2023,06/07/2023,04/08/2023,24300134,34.62632,-2.94895,2023,99,0,0,0,10,Dam,Cloudy,Sunny,Cloudy,agriculture activities,agriculture activities,agriculture activities,,,,,7,16,7,33,70,25,162,187,216
+Mohammed V,Mohamed 5 dam 11,11/06/2023,06/07/2023,04/08/2023,24300134,34.61893,-2.94895,2023,100,0,0,0,10,Dam,Cloudy,Sunny,Cloudy,agriculture activities,agriculture activities,agriculture activities,,,,,7,16,7,33,70,25,162,187,216
+Mohammed V,Mohamed 5 dam 12,11/06/2023,06/07/2023,04/08/2023,24300134,34.6411,-2.94446,2023,109,0,0,0,10,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,17,8,17,30,23,162,187,216
+Mohammed V,Mohamed 5 dam 13,11/06/2023,06/07/2023,04/08/2023,24300134,34.61893,-2.94446,2023,101,0,0,0,0,Dam,Cloudy,Sunny,Cloudy,agriculture activities,agriculture activities,agriculture activities,,,,,7,16,7,33,70,25,162,187,216
+Mohammed V,Mohamed 5 dam 14,11/06/2023,06/07/2023,04/08/2023,24300134,34.66327,-2.93997,2023,104,0,0,0,0,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,7,16,17,80,40,162,187,216
+Mohammed V,Mohamed 5 dam 15,11/06/2023,06/07/2023,04/08/2023,24300134,34.62632,-2.93548,2023,110,0,0,0,0,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,17,8,17,30,23,162,187,216
+Mohammed V,Mohamed 5 dam 16,11/06/2023,06/07/2023,04/08/2023,24300134,34.60414,-2.93548,2023,111,0,1,2,40,Dam,Cloudy,Cloudy,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,7,16,40,40,48,162,187,216
+Mohammed V,Mohamed 5 dam 17,11/06/2023,06/07/2023,04/08/2023,24300134,34.63002,-2.92649,2023,112,0,0,0,60,Dam,Cloudy,Cloudy,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,7,16,40,40,48,162,187,216
+Mohammed V,Mohamed 5 dam 18,11/06/2023,06/07/2023,04/08/2023,24300134,34.61154,-2.92649,2023,113,0,0,0,65,Dam,Cloudy,Cloudy,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,7,16,40,40,48,162,187,216
+Mohammed V,Mohamed 5 dam 19,11/06/2023,06/07/2023,04/08/2023,24300134,34.62263,-2.922,2023,114,0,0,0,80,Dam,Cloudy,Cloudy,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,7,16,40,40,48,162,187,216
+Mohammed V,Mohamed 5 dam 2,11/06/2023,06/07/2023,04/08/2023,24300134,34.64849,-2.96243,2023,106,0,0,0,0,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,17,8,17,30,23,162,187,216
+Mohammed V,Mohamed 5 dam 20,11/06/2023,06/07/2023,04/08/2023,24300134,34.62263,-2.91751,2023,115,0,0,0,85,Dam,Cloudy,Cloudy,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,7,16,40,40,48,162,187,216
+Mohammed V,Mohamed 5 dam 21,11/06/2023,06/07/2023,04/08/2023,24300134,34.60045,-2.91302,2023,93,1,1,0,45,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,,,,,,17,16,16,20,70,70,162,187,216
+Mohammed V,Mohamed 5 dam 22,11/06/2023,06/07/2023,04/08/2023,24300134,34.61523,-2.90853,2023,94,0,0,0,15,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,,,,,,17,16,16,20,70,70,162,187,216
+Mohammed V,Mohamed 5 dam 23,11/06/2023,06/07/2023,04/08/2023,24300134,34.60414,-2.90404,2023,95,0,1,1,30,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,,,,,,17,16,16,20,70,70,162,187,216
+Mohammed V,Mohamed 5 dam 3,11/06/2023,06/07/2023,04/08/2023,24300134,34.66697,-2.95793,2023,102,0,0,0,0,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,7,16,17,80,40,162,187,216
+Mohammed V,Mohamed 5 dam 4,11/06/2023,06/07/2023,04/08/2023,24300134,34.63002,-2.95793,2023,96,0,0,0,0,Dam,Cloudy,Sunny,Cloudy,agriculture activities,agriculture activities,,,,,,7,16,7,33,70,25,162,187,216
+Mohammed V,Mohamed 5 dam 5,11/06/2023,06/07/2023,04/08/2023,24300134,34.62263,-2.95793,2023,97,0,0,0,0,Dam,Cloudy,Sunny,Cloudy,agriculture activities,agriculture activities,,,,,,7,16,7,33,70,25,162,187,216
+Mohammed V,Mohamed 5 dam 6,11/06/2023,06/07/2023,04/08/2023,24300134,34.6448,-2.95344,2023,107,0,0,0,0,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,17,8,17,30,23,162,187,216
+Mohammed V,Mohamed 5 dam 7,11/06/2023,06/07/2023,04/08/2023,24300134,34.66327,-2.94895,2023,103,0,0,0,0,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,7,16,17,80,40,162,187,216
+Mohammed V,Mohamed 5 dam 8,11/06/2023,06/07/2023,04/08/2023,24300134,34.6448,-2.94895,2023,108,0,0,0,0,Dam,Sunny,Sunny,Sunny,agriculture activities,agriculture activities,agriculture activities,,,,,7,17,8,17,30,23,162,187,216
+Mohammed V,Mohamed 5 dam 9,11/06/2023,06/07/2023,04/08/2023,24300134,34.63371,-2.94895,2023,98,0,0,0,0,Dam,Cloudy,Sunny,Cloudy,agriculture activities,agriculture activities,,,,,,7,16,7,33,70,25,162,187,216
+Moulay abdelah,Moulay abdelah 1,18/06/2024,15/07/2024,NA,3137561,30.76845462,-9.69529865,2024,,0,0,NA,40,Dam,Sunny,Sunny,NA,fishing activities,fishing activities,NA,,,,,8,8,NA,40,30,NA,170,197,NA
+Moulay abdelah,Moulay abdelah 2,18/06/2024,15/07/2024,NA,3137561,30.76459519,-9.6863155,2024,,0,0,NA,10,Dam,Sunny,Sunny,NA,fishing activities,fishing activities,NA,,,,,9,9,NA,40,17,NA,170,197,NA
+Moulay abdelah,Moulay abdelah 3,18/06/2024,15/07/2024,NA,3137561,30.76459519,-9.67733235,2024,,0,0,NA,10,Dam,Sunny,Sunny,NA,fishing activities,fishing activities,NA,,,,,10,10,NA,20,8,NA,170,197,NA
+Moulay abdelah,Moulay abdelah 4,18/06/2024,15/07/2024,NA,3137561,30.76845462,-9.67733235,2024,,0,0,NA,10,Dam,Sunny,Sunny,NA,fishing activities,fishing activities,NA,,,,,11,10,NA,25,5,NA,170,197,NA
+Moulay abdelah,Moulay abdelah 5,18/06/2024,15/07/2024,NA,3137561,30.77617301,-9.6683492,2024,,0,0,NA,30,Dam,Sunny,Sunny,NA+R95:R105,fishing activities,fishing activities,NA,,,,,12,11,NA,35,20,NA,170,197,NA
+Moulay youssef,Moulay youssef dam 1,07/06/2023,NA,NA,2316604,31.64434,-7.26086,2023,116,0,NA,NA,0,Dam,Sunny,NA,NA,Nothing,NA,NA,,,,,9,NA,NA,70,NA,NA,158,NA,NA
+Moulay youssef,Moulay youssef dam 2,07/06/2023,NA,NA,2316604,31.62905,-7.25637,2023,117,0,NA,NA,0,Dam,Sunny,NA,NA,Nothing,NA,NA,,,,,9,NA,NA,70,NA,NA,158,NA,NA
+Moulay youssef,Moulay youssef dam 3,07/06/2023,NA,NA,2316604,31.63669,-7.24739,2023,118,0,NA,NA,0,Dam,Sunny,NA,NA,Nothing,NA,NA,,,,,9,NA,NA,70,NA,NA,158,NA,NA
+Moulouya,Moulouya 1,15/06/2024,15/07/2024,NA,1197661,35.11275692,-2.34707963,2024,,0,0,NA,80,river,Sunny,Sunny,NA,feral dogs,feral dogs,NA,,,,,9,9,NA,30,30,NA,167,197,NA
+Moulouya,Moulouya 2,14/06/2024,15/07/2024,NA,1197661,35.120105,-2.34707963,2024,,0,0,NA,80,river,Sunny,Sunny,NA,feral dogs,feral dogs,NA,,,,,9,9,NA,30,30,NA,166,197,NA
+Moulouya,Moulouya 3,13/06/2024,15/07/2024,NA,1197661,35.120105,-2.33809648,2024,,0,0,NA,80,river,Sunny,Sunny,NA,feral dogs,feral dogs,NA,,,,,8,8,NA,30,30,NA,165,197,NA
+Oued kennar,Oued kennar 1,09/06/2024,NA,12/08/2024,915190,35.36588239,-5.17677278,2024,,0,NA,0,0,river,Sunny,NA,Sunny,anthropic activities,NA,anthropic activities,,,,,11,NA,19,30,NA,35,161,NA,225
+Oued kennar,Oued kennar 2,09/06/2024,NA,12/08/2024,915190,35.37686992,-5.15431489,2024,,0,NA,0,0,river,Sunny,NA,Sunny,anthropic activities,NA,anthropic activities,,,,,11,NA,19,30,NA,25,161,NA,225
+Oued kennar,Oued kennar 3,09/06/2024,NA,12/08/2024,915190,35.38053209,-5.15431489,2024,,0,NA,0,0,river,Sunny,NA,Sunny,anthropic activities,NA,anthropic activities,,,,,11,NA,18,30,NA,25,161,NA,225
+Oued kennar,Oued kennar 4,09/06/2024,NA,12/08/2024,915190,35.39151762,-5.14533174,2024,,0,NA,0,0,river,Sunny,NA,Sunny,anthropic activities,NA,anthropic activities,,,,,11,NA,18,30,NA,25,161,NA,225
+Oued Mechra,Oued Mechra 1,04/06/2023,09/07/2023,30/07/2023,7446485,33.8913,-6.76679,2023,119,0,0,0,0,river,Cloudy,Sunny,Sunny,fishing activities,fishing activities,fishing activities,,,,,10,12,12,47,27,27,155,190,211
+Oued Mechra,Oued Mechra 2,04/06/2023,09/07/2023,30/07/2023,7446485,33.90621,-6.7623,2023,120,0,0,0,0,river,Cloudy,Sunny,Sunny,fishing activities,fishing activities,fishing activities,,,,,10,12,12,47,27,27,155,190,211
+Oued Mechra,Oued Mechra 3,04/06/2023,09/07/2023,30/07/2023,7446485,33.87638,-6.75781,2023,121,0,0,0,0,river,Cloudy,Sunny,Sunny,fishing activities,fishing activities,fishing activities,,,,,10,12,12,47,27,27,155,190,211
+Oued Mechra,Oued Mechra 4,04/06/2023,09/07/2023,30/07/2023,7446485,33.86892,-6.75781,2023,122,0,0,0,0,river,Cloudy,Sunny,Sunny,fishing activities,fishing activities,fishing activities,,,,,10,12,12,47,27,27,155,190,211
+Oued Mechra,Oued Mechra 5,04/06/2023,09/07/2023,30/07/2023,7446485,33.86146,-6.75781,2023,123,0,0,0,0,river,Cloudy,Sunny,Sunny,fishing activities,fishing activities,fishing activities,,,,,10,12,12,47,27,27,155,190,211
+Oued Mechra,Oued Mechra 6,04/06/2023,09/07/2023,30/07/2023,7446485,33.90994,-6.75332,2023,124,0,0,0,0,river,Cloudy,Sunny,Sunny,fishing activities,fishing activities,fishing activities,,,,,10,12,12,47,27,27,155,190,211
+Oued Mechra,Oued Mechra 7,04/06/2023,09/07/2023,30/07/2023,7446485,33.90994,-6.74882,2023,125,0,0,0,0,river,Cloudy,Sunny,Sunny,fishing activities,fishing activities,fishing activities,,,,,10,12,12,47,27,27,155,190,211
+Oued Mechra,Oued Mechra 8,04/06/2023,09/07/2023,30/07/2023,7446485,33.88384,-6.74882,2023,126,0,0,0,0,river,Cloudy,Sunny,Sunny,fishing activities,fishing activities,fishing activities,,,,,10,12,12,47,27,27,155,190,211
+Oued Mechra,Oued Mechra 9,04/06/2023,09/07/2023,30/07/2023,7446485,33.88011,-6.74433,2023,127,0,0,0,0,river,Cloudy,Sunny,Sunny,fishing activities,fishing activities,fishing activities,,,,,10,12,12,47,27,27,155,190,211
+Oum rabie,Oum rabie 1,11/06/2024,15/07/2024,07/08/2024,793022,32.89756218,-8.06036484,2024,,0,0,0,0,river,Sunny,Sunny,Na,anthropic activities,anthropic activities,anthropic activities,,,,,12,13,13,30,30,30,163,197,211
+Oum rabie,Oum rabie 2,11/06/2024,15/07/2024,07/08/2024,793022,32.90887542,-8.06036484,2024,,0,0,0,0,river,Sunny,Sunny,Na,anthropic activities,anthropic activities,anthropic activities,,,,,13,13,13,30,30,30,163,197,211
+Oum rabie,Oum rabie 3,11/06/2024,15/07/2024,07/08/2024,793022,32.92395749,-8.06036484,2024,,0,0,0,0,river,Sunny,Sunny,Na,anthropic activities,anthropic activities,anthropic activities,,,,,14,14,14,20,20,20,163,197,211
+Oum rabie,Oum rabie 4,11/06/2024,15/07/2024,07/08/2024,793022,32.93149756,-8.06485641,2024,,0,0,0,0,river,Sunny,Sunny,Na,anthropic activities,anthropic activities,anthropic activities,,,,,14,14,14,20,15,15,163,197,211
+Oum rabie,Oum rabie 5,11/06/2024,15/07/2024,07/08/2024,793022,32.93903699,-8.06934799,2024,,0,0,0,0,river,Sunny,Sunny,Na,anthropic activities,anthropic activities,anthropic activities,,,,,15,11,11,15,25,25,163,197,211
+Oum rabie,Oum rabie 6,11/06/2024,15/07/2024,07/08/2024,793022,32.94657578,-8.05138168,2024,,0,0,0,0,river,Sunny,Sunny,Na,anthropic activities,anthropic activities,anthropic activities,,,,,15,15,15,15,15,15,163,197,211
+Oum rabie,Oum rabie 7,11/06/2024,15/07/2024,07/08/2024,793022,32.95034493,-8.05587326,2024,,0,0,0,0,river,Sunny,Sunny,Na,anthropic activities,anthropic activities,anthropic activities,,,,,15,16,16,15,20,20,163,197,211
+Saqia El hamra,Saqia El hamra 1,13/06/2024,04/07/2024,NA,802214,27.16990275,-13.2032198,2024,,0,0,NA,10,Pond,Cloudy,Cloudy,Na,feral dogs,feral dogs,NA,,,,,12,12,NA,33,33,NA,165,186,NA
+Saqia El hamra,Saqia El hamra 2,13/06/2024,04/07/2024,NA,802214,27.16191055,-13.1942366,2024,,1,1,NA,20,Pond,Cloudy,Cloudy,Na,feral dogs,feral dogs,NA,,,,,8,8,NA,45,45,NA,165,186,NA
+Saqia El hamra,Saqia El hamra 3,13/06/2024,04/07/2024,NA,802214,27.15791423,-13.1852535,2024,,1,1,NA,20,Pond,Cloudy,Cloudy,Na,feral dogs,feral dogs,NA,,,,,10,10,NA,43,43,NA,165,186,NA
+Sbou bni byed,Sbou bni byed 1,NA,21/07/2024,14/08/2024,1912202,34.47834931,-5.39236844,2024,,NA,0,0,0,river,NA,Sunny,Sunny,NA,anthropic activities,anthropic activities,,,,,NA,18,9,NA,15,35,NA,203,227
+Sbou bni byed,Sbou bni byed 2,NA,21/07/2024,14/08/2024,1912202,34.48575415,-5.36541899,2024,,NA,0,0,0,river,NA,Sunny,Sunny,NA,anthropic activities,anthropic activities,,,,,NA,18,10,NA,15,40,NA,203,227
+Sbou bni byed,Sbou bni byed 3,NA,21/07/2024,14/08/2024,1912202,34.47834931,-5.33397795,2024,,NA,0,0,0,river,NA,Sunny,Sunny,NA,anthropic activities,anthropic activities,,,,,NA,17,10,NA,25,30,NA,203,227
+Sbou bni byed,Sbou bni byed 4,NA,21/07/2024,14/08/2024,1912202,34.46724081,-5.32948637,2024,,NA,0,0,0,river,NA,Sunny,Sunny,NA,anthropic activities,anthropic activities,,,,,NA,17,11,NA,20,25,NA,203,227
+Sbou bni byed,Sbou bni byed 5,NA,21/07/2024,14/08/2024,1912202,34.46724081,-5.31152007,2024,,NA,0,0,0,river,NA,Sunny,Sunny,NA,anthropic activities,anthropic activities,,,,,NA,16,12,NA,15,30,NA,203,227
+Sbou bni byed,Sbou bni byed 6,NA,21/07/2024,14/08/2024,1912202,34.48205181,-5.31152007,2024,,NA,0,0,0,river,NA,Sunny,Sunny,NA,anthropic activities,anthropic activities,,,,,NA,16,13,NA,15,40,NA,203,227
+Sbou oulad hamad,Sbou oulad hamad 1,24/06/2024,21/07/2024,13/08/2024,1606841,34.50796475,-5.90440816,2024,,0,0,0,0,river,Cloudy,Sunny,Sunny,anthropic activities,anthropic activities,anthropic activities,,,,,14,14,13,20,20,20,176,203,226
+Sbou oulad hamad,Sbou oulad hamad 2,24/06/2024,21/07/2024,13/08/2024,1606841,34.49686019,-5.91339131,2024,,0,0,0,0,river,Cloudy,Sunny,Sunny,anthropic activities,anthropic activities,anthropic activities,,,,,14,10,14,20,20,25,176,203,226
+Sbou oulad hamad,Sbou oulad hamad 3,24/06/2024,21/07/2024,13/08/2024,1606841,34.47094381,-5.91788289,2024,,0,0,0,0,river,Cloudy,Sunny,Sunny,anthropic activities,anthropic activities,anthropic activities,,,,,15,10,15,10,15,35,176,203,226
+Sbou oulad hamad,Sbou oulad hamad 4,24/06/2024,21/07/2024,13/08/2024,1606841,34.47094381,-5.90440816,2024,,0,0,0,0,river,Cloudy,Sunny,Sunny,anthropic activities,anthropic activities,anthropic activities,,,,,15,11,15,15,15,25,176,203,226
+Sbou oulad hamad,Sbou oulad hamad 5,24/06/2024,21/07/2024,13/08/2024,1606841,34.47094381,-5.88195027,2024,,0,0,0,0,river,Cloudy,Sunny,Sunny,anthropic activities,anthropic activities,anthropic activities,,,,,15,11,16,15,25,25,176,203,226
+Sbou oulad hamad,Sbou oulad hamad 6,24/06/2024,21/07/2024,13/08/2024,1606841,34.45983432,-5.8774587,2024,,0,0,0,0,river,Cloudy,Sunny,Sunny,anthropic activities,anthropic activities,anthropic activities,,,,,16,11,16,20,25,30,176,203,226
+Sbou oulad hamad,Sbou oulad hamad 7,24/06/2024,21/07/2024,13/08/2024,1606841,34.46353765,-5.86398397,2024,,0,0,0,0,river,Cloudy,Sunny,Sunny,anthropic activities,anthropic activities,anthropic activities,,,,,16,12,17,10,20,30,176,203,226
+Sbou oulad hamad,Sbou oulad hamad 8,24/06/2024,21/07/2024,13/08/2024,1606841,34.47834931,-5.85949239,2024,,0,0,0,0,river,Cloudy,Sunny,Sunny,anthropic activities,anthropic activities,anthropic activities,,,,,16,12,18,15,20,30,176,203,226
+Sidi Benslimane,sidi benslimane dam1,NA,21/07/2023,12/08/2023,596952,31.10748,-9.6414,2023,128,NA,0,0,5,Dam,NA,Sunny,Sunny,NA,feral dogs,feral dogs,,,,,NA,17,8,NA,45,45,NA,202,224
+Sidi Benslimane,sidi benslimane dam2,NA,21/07/2023,12/08/2023,596952,31.09979,-9.63691,2023,129,NA,2,2,20,Dam,NA,Sunny,Sunny,NA,feral dogs,feral dogs,,,,,NA,17,8,NA,45,45,NA,202,224
+Sidi Benslimane,sidi benslimane dam3,NA,21/07/2023,12/08/2023,596952,31.10748,-9.62793,2023,130,NA,0,0,0,Dam,NA,Sunny,Sunny,NA,feral dogs,feral dogs,,,,,NA,17,8,NA,45,45,NA,202,224
+Sidi Boughaba,Sidi Boughaba 1,13/06/2024,10/07/2024,14/08/2024,514599,34.23733443,-6.6769593,2024,,0,0,0,15,lake,Cloudy,Cloudy,Sunny,anthropic activities,anthropic activities,anthropic activities,,,,,11,15,19,120,60,35,165,192,227
+Sidi Boughaba,Sidi Boughaba 2,13/06/2024,10/07/2024,14/08/2024,514599,34.24847344,-6.66797615,2024,,2,1,1,25,lake,Cloudy,Cloudy,Sunny,anthropic activities,anthropic activities,anthropic activities,,,,,9,14,18,120,60,65,165,192,227
+Sidi Moussa,Sidi Moussa 1,12/06/2024,16/07/2024,02/08/2024,311216,33.00309618,-8.72511815,2024,,3,2,2,50,Saltpan,Sunny,Sunny,Sunny,anthropic activities,anthropic activities,anthropic activities,,,,,9,19,8,60,85,60,164,198,215
+Souss Massa NP,Sousse Massa NP,03/06/2023,09/07/2023,30/07/2023,643674,30.05961,-9.65937,2023,131,0,0,0,0,river,Sunny,Sunny,Sunny,anthropic activities,anthropic activities,anthropic activities,,,,,9,8,8,150,120,135,154,190,211
+Souss Massa NP,Sousse Massa NP,21/06/2024,18/07/2024,NA,643674,30.05961,-9.65937,2024,131,0,0,NA,0,river,Sunny,Sunny,NA,agriculture activities,anthropic activities,NA,,,,,10,10,NA,35,35,NA,173,190,NA
+Tahadart NP,Tahadart NP1,13/06/2023,08/07/2023,NA,10722275,35.57074,-5.98526,2023,132,0,0,NA,0,river,Sunny,Sunny,NA,anthropic activities,,NA,,,,,7,7,NA,18,18,NA,164,189,NA
+Tahadart NP,Tahadart NP2,13/06/2023,08/07/2023,NA,10722275,35.59631,-5.97627,2023,133,0,0,NA,0,river,Sunny,Sunny,NA,anthropic activities,,NA,,,,,7,7,NA,18,18,NA,164,189,NA
+Tahadart NP,Tahadart NP3,13/06/2023,08/07/2023,NA,10722275,35.58535,-5.97627,2023,134,0,0,NA,0,river,Sunny,Sunny,NA,anthropic activities,,NA,,,,,7,7,NA,18,18,NA,164,189,NA
+Tahadart NP,Tahadart NP4,13/06/2023,08/07/2023,NA,10722275,35.57074,-5.97627,2023,135,0,0,NA,0,river,Sunny,Sunny,NA,anthropic activities,,NA,,,,,7,7,NA,18,18,NA,164,189,NA
+Tahadart NP,Tahadart NP5,13/06/2023,08/07/2023,NA,10722275,35.56708,-5.97627,2023,136,0,0,NA,0,river,Sunny,Sunny,NA,anthropic activities,,NA,,,,,7,7,NA,18,18,NA,164,189,NA
+Tahadart NP,Tahadart NP6,13/06/2023,08/07/2023,NA,10722275,35.589,-5.96729,2023,137,0,0,NA,0,river,Sunny,Sunny,NA,anthropic activities,,NA,,,,,7,7,NA,18,18,NA,164,189,NA
+Tahadart NP,Tahadart NP7,13/06/2023,08/07/2023,NA,10722275,35.56343,-5.96729,2023,138,0,0,NA,0,river,Sunny,Sunny,NA,anthropic activities,,NA,,,,,7,7,NA,18,18,NA,164,189,NA
+Tahadart NP,Tahadart NP8,13/06/2023,08/07/2023,NA,10722275,35.59265,-5.95831,2023,139,0,0,NA,0,river,Sunny,Sunny,NA,anthropic activities,,NA,,,,,7,7,NA,18,18,NA,164,189,NA
+Tahadart NP,Tahadart NP9,13/06/2023,08/07/2023,NA,10722275,35.58535,-5.98526,2023,140,0,0,NA,0,river,Sunny,Sunny,NA,anthropic activities,,NA,,,,,7,7,NA,18,18,NA,164,189,NA
+Tanfnite,Tanfnite dam 1,07/06/2023,07/07/2023,NA,353555,33.0784,-5.50915,2023,141,0,0,NA,5,Dam,Cloudy,Sunny,NA,Nothing,Nothing,NA,,,,,9,12,NA,30,15,NA,158,188,NA
+Targuiste,Targuiste,23/06/2024,20/07/2024,13/08/2024,135600,34.93252204,-4.32786483,2024,,0,0,0,10,Dam,NA+R95:R106,Sunny,Sunny,anthropic activities,anthropic activities,anthropic activities,,,,,14,15,14,27,37,59,175,202,226
